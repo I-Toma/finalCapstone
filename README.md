@@ -26,5 +26,8 @@ Usage
   
   Step 3: Run the project
 
+Additional info:
+  The user.txt file contains admin username and password
+
 Credits
   Ionut Iustin Toma
